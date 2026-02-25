@@ -1,1 +1,3 @@
-# B2306653
+- **Họ và tên:** A Mách Sa Phi Y
+- **MSSV:** B2306653
+- **Lớp:** Hệ thống thông tin K49
